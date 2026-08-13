@@ -1,0 +1,36 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Web app run outputs
+web_runs/
+
+# Videos / media (large; user's own footage — keep out of the repo)
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.avi
+*.mkv
+
+# Models (downloaded separately — see README)
+*.task
+*.pt
+
+# Track caches & generated outputs
+*.pkl
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# Generated reports / keys (may contain real dancer names)
+report.json
+formation_key_mov2.json
+synthetic_key.json
+
+# OS / editor / local
+.DS_Store
+.claude/
+*.log

@@ -1,0 +1,167 @@
+{
+  "roster": [
+    "Dancer1",
+    "Dancer2",
+    "Dancer3",
+    "Dancer4",
+    "Dancer5",
+    "Dancer6",
+    "Dancer7",
+    "Dancer8",
+    "Dancer9",
+    "Dancer10",
+    "Dancer11",
+    "Dancer12",
+    "Dancer13",
+    "Dancer14",
+    "Dancer15",
+    "Dancer16"
+  ],
+  "name_anchor_formation": "formation_1",
+  "out_of_position_threshold": 0.07,
+  "_README": "positions are normalized image coords: x 0=left..1=right, y 0=top..1=bottom. Set start/end to when each formation is HELD (mm:ss). Edit names + positions to match your routine.",
+  "formations": [
+    {
+      "name": "formation_1",
+      "start": "0:00",
+      "end": "0:15",
+      "positions": {
+        "Dancer1": [
+          0.18,
+          0.4
+        ],
+        "Dancer2": [
+          0.393,
+          0.4
+        ],
+        "Dancer3": [
+          0.607,
+          0.4
+        ],
+        "Dancer4": [
+          0.82,
+          0.4
+        ],
+        "Dancer5": [
+          0.18,
+          0.533
+        ],
+        "Dancer6": [
+          0.393,
+          0.533
+        ],
+        "Dancer7": [
+          0.607,
+          0.533
+        ],
+        "Dancer8": [
+          0.82,
+          0.533
+        ],
+        "Dancer9": [
+          0.18,
+          0.667
+        ],
+        "Dancer10": [
+          0.393,
+          0.667
+        ],
+        "Dancer11": [
+          0.607,
+          0.667
+        ],
+        "Dancer12": [
+          0.82,
+          0.667
+        ],
+        "Dancer13": [
+          0.18,
+          0.8
+        ],
+        "Dancer14": [
+          0.393,
+          0.8
+        ],
+        "Dancer15": [
+          0.607,
+          0.8
+        ],
+        "Dancer16": [
+          0.82,
+          0.8
+        ]
+      }
+    },
+    {
+      "name": "formation_2",
+      "start": "0:20",
+      "end": "0:35",
+      "positions": {
+        "Dancer1": [
+          0.18,
+          0.4
+        ],
+        "Dancer2": [
+          0.393,
+          0.4
+        ],
+        "Dancer3": [
+          0.607,
+          0.4
+        ],
+        "Dancer4": [
+          0.82,
+          0.4
+        ],
+        "Dancer5": [
+          0.18,
+          0.533
+        ],
+        "Dancer6": [
+          0.393,
+          0.533
+        ],
+        "Dancer7": [
+          0.607,
+          0.533
+        ],
+        "Dancer8": [
+          0.82,
+          0.533
+        ],
+        "Dancer9": [
+          0.18,
+          0.667
+        ],
+        "Dancer10": [
+          0.393,
+          0.667
+        ],
+        "Dancer11": [
+          0.607,
+          0.667
+        ],
+        "Dancer12": [
+          0.82,
+          0.667
+        ],
+        "Dancer13": [
+          0.18,
+          0.8
+        ],
+        "Dancer14": [
+          0.393,
+          0.8
+        ],
+        "Dancer15": [
+          0.607,
+          0.8
+        ],
+        "Dancer16": [
+          0.82,
+          0.8
+        ]
+      }
+    }
+  ]
+}
